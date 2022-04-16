@@ -71,3 +71,4 @@ docs
 
 # Auto generated typechain contracts
 src/typechain/contracts/
+.idea
